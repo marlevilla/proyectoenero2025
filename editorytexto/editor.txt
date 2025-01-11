@@ -1,2 +1,0 @@
-hola mundo 1
-primer commit
